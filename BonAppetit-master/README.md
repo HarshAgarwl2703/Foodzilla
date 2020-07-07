@@ -1,4 +1,4 @@
-# TartanHacks2019
+# Parsec 2020
 Reducing food waste
 
 ## Setup
